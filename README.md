@@ -1,6 +1,5 @@
 # BD3: Building Defects Detection Dataset
 
-Download the [BD3-Dataset](https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/praveenkotta_iisc_ac_in/Et7Ki_ILnGtBi1oFpOioPGcBp4zzUodaYsJ5UV3tve1Geg?e=3zxutQ).
 
  Check Paper [here](https://dl.acm.org/doi/10.1145/3671127.3698789)
 
